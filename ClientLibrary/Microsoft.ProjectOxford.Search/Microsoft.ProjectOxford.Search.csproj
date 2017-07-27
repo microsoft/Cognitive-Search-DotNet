@@ -9,7 +9,7 @@
     <PackageTags>Microsoft Project Oxford Cognitive Services Search Bing News Images Videos Web</PackageTags>
     <RepositoryType>git</RepositoryType>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Version>1.1.0-beta</Version>
+    <Version>1.1.1-beta</Version>
     <Copyright>Copyright</Copyright>
     <PackageLicenseUrl>https://github.com/Microsoft/Cognitive-Search-DotNet/blob/master/LICENSE.md</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/Microsoft/Cognitive-Search-DotNet</PackageProjectUrl>
