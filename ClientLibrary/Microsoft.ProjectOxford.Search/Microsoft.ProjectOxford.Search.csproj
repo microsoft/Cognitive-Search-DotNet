@@ -2,6 +2,19 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Microsoft</Authors>
+    <Company>Microsoft</Company>
+    <Description>Microsoft Cognitive Services Search API Client Library</Description>
+    <PackageReleaseNotes>Migrated to .NET Standard 2.0</PackageReleaseNotes>
+    <PackageTags>Microsoft Project Oxford Cognitive Services Search Bing News Images Videos Web</PackageTags>
+    <RepositoryType>git</RepositoryType>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.1.0-beta</Version>
+    <Copyright>Copyright</Copyright>
+    <PackageLicenseUrl>https://github.com/Microsoft/Cognitive-Search-DotNet/blob/master/LICENSE.md</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/Microsoft/Cognitive-Search-DotNet</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Microsoft/Cognitive-Search-DotNet</RepositoryUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/Microsoft/Cognitive-Search-DotNet/master/Docs/Images/icon.png</PackageIconUrl>
   </PropertyGroup>
 
   <ItemGroup>
