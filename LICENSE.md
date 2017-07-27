@@ -2,7 +2,7 @@
 
 Microsoft Cognitive Services Search SDK
 
-Copyright (c) 2016 Adam Grocholski
+Copyright (c) 2017 Microsoft
 
 All rights reserved.
 

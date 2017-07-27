@@ -1,6 +1,6 @@
 ![Search](Docs/Images/icon.png)
 
-# Search API: .NET Core Client Library & Sample
+# Search API: .NET Client Library
 
 ## Overview
 The Cognitive Services Search API is a suite of services that offers APIs for autosuggestion, image search, new search, video search, and web search.
@@ -13,9 +13,9 @@ The solution contains the SDK and a sample application that allows you to enter 
 - Web search
 
 ## The Client Library
-The client library is a thin C\# client wrapper for Microsoft Search API. The easiest way to use this client library is to get microsoft.projectoxford.search.dotnetcore package from [nuget](http://nuget.org).
+The client library is a thin C\# client wrapper for Microsoft Search API. The easiest way to use this client library is to get microsoft.projectoxford.search package from [nuget](http://nuget.org).
 
-Please go to the [Search API Package in Nuget](https://www.nuget.org/packages/Microsoft.ProjectOxford.Search.DotNetCore/) for more details.
+Please go to the [Search API Package in Nuget](https://www.nuget.org/packages/Microsoft.ProjectOxford.Search/) for more details.
 
 ## Contributing
 Contributions are welcome. Feel free to file issues and pull requests on the repo and we'll address them as we can. Learn more about how you can help on our [Contribution Rules & Guidelines](/CONTRIBUTING.md).
