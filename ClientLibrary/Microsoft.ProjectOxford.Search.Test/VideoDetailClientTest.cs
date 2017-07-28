@@ -27,7 +27,7 @@ namespace Microsoft.ProjectOxford.Search.Test
         [TestInitialize]
         public void Intialize()
         {
-            apiKey = ConfigurationManager.AppSettings["searchApiKey"];
+            apiKey = Environment.GetEnvironmentVariable("COG_API_KEY_SEARCH");
         }
 
         #endregion Test Initialization
