@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26711.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microsoft.ProjectOxford.Search", "Microsoft.ProjectOxford.Search\Microsoft.ProjectOxford.Search.csproj", "{EB868081-EE73-4CAF-B821-4034D378FD92}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.ProjectOxford.Search.Test", "Microsoft.ProjectOxford.Search.Test\Microsoft.ProjectOxford.Search.Test.csproj", "{E26FA741-188C-43DE-A7DE-CD1E4A1AE76C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{EB868081-EE73-4CAF-B821-4034D378FD92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB868081-EE73-4CAF-B821-4034D378FD92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB868081-EE73-4CAF-B821-4034D378FD92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E26FA741-188C-43DE-A7DE-CD1E4A1AE76C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E26FA741-188C-43DE-A7DE-CD1E4A1AE76C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E26FA741-188C-43DE-A7DE-CD1E4A1AE76C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E26FA741-188C-43DE-A7DE-CD1E4A1AE76C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
