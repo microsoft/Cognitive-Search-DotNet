@@ -8,6 +8,7 @@ namespace Microsoft.ProjectOxford.Search.Test
     /// <summary>
     /// Unit tests for the AutosuggestClient class.
     /// </summary>
+    /// <seealso cref="Microsoft.ProjectOxford.Search.Autosuggest.AutosuggestClient" />
     public class AutosuggestClientTest
     {
         /// <summary>

@@ -8,6 +8,7 @@ namespace Microsoft.ProjectOxford.Search.Test
     /// <summary>
     /// Unit tests for the ImageSearchClient class.
     /// </summary>
+    /// /// <seealso cref="Microsoft.ProjectOxford.Search.Image.ImageSearchClient" />
     public class ImageSearchClientTest
     {
         /// <summary>

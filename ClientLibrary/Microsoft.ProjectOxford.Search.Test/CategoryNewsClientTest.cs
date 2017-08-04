@@ -7,6 +7,7 @@ namespace Microsoft.ProjectOxford.Search.Test
     /// <summary>
     /// Unit tests for category news client.
     /// </summary>
+    /// <seealso cref="Microsoft.ProjectOxford.Search.News.CategoryNewsClient" />
     public class CategoryNewsClientTest
     {
         /// <summary>
