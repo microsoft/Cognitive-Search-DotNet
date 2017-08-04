@@ -7,6 +7,7 @@ namespace Microsoft.ProjectOxford.Search.Test
     /// <summary>
     /// Unit tests for trending topic client.
     /// </summary>
+    /// /// <seealso cref="Microsoft.ProjectOxford.Search.News.TrendingTopicClient" />
     public class TrendingTopicClientTest
     {
         /// <summary>

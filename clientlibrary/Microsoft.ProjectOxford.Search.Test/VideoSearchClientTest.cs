@@ -5,6 +5,10 @@ using Xunit;
 
 namespace Microsoft.ProjectOxford.Search.Test
 {
+    /// <summary>
+    /// Unit tests for the VideoSearchClient class.
+    /// </summary>
+    /// /// <seealso cref="Microsoft.ProjectOxford.Search.Video.VideoSearchClient" />
     public class VideoSearchClientTest
     {
         /// <summary>

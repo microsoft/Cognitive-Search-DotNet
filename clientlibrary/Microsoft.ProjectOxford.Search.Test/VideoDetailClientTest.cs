@@ -8,6 +8,7 @@ namespace Microsoft.ProjectOxford.Search.Test
     /// <summary>
     /// Unit tests for the VideoDetailClient class.
     /// </summary>
+    /// /// <seealso cref="Microsoft.ProjectOxford.Search.Video.VideoDetailClient" />
     public class VideoDetailClientTest
     {
         private string videoId = "42E6E500F763A94EB0F442E6E500F763A94EB0F4";

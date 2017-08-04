@@ -5,6 +5,10 @@ using Xunit;
 
 namespace Microsoft.ProjectOxford.Search.Test
 {
+    /// <summary>
+    /// Unit tests for NewsSearchClient class.
+    /// </summary>
+    /// /// <seealso cref="Microsoft.ProjectOxford.Search.News.NewsSearchClient" />
     public class NewsSearchClientTest
     {
         /// <summary>

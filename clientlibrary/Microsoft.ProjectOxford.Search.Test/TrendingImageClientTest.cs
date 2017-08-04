@@ -7,6 +7,7 @@ namespace Microsoft.ProjectOxford.Search.Test
     /// <summary>
     /// Unit tests for the TrendingImageClient class.
     /// </summary>
+    /// /// <seealso cref="Microsoft.ProjectOxford.Search.Image.TrendingImageClient" />
     public class TrendingImageClientTest
     {
         /// <summary>

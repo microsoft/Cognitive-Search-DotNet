@@ -7,6 +7,7 @@ namespace Microsoft.ProjectOxford.Search.Test
     /// <summary>
     /// Unit tests for the TrendingVideoClient class.
     /// </summary>
+    /// /// <seealso cref="Microsoft.ProjectOxford.Search.Video.TrendingVideoClient" />
     public class TrendingVideoClientTest
     {
         /// <summary>
