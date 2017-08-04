@@ -19,7 +19,7 @@ namespace Microsoft.ProjectOxford.Search.Test
             }
         }
 
-        public string AutoSuggestApiKey
+        public string AutosuggestApiKey
         {
             get
             {
